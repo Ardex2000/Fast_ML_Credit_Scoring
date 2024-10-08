@@ -1,2 +1,2 @@
 The basic credit scoring model was built using XGBoost, optimized and explained in Python.
-/n Data Source: https://www.kaggle.com/datasets/uciml/default-of-credit-card-clients-dataset
+Data Source: https://www.kaggle.com/datasets/uciml/default-of-credit-card-clients-dataset
